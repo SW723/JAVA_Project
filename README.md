@@ -55,5 +55,34 @@
 * Carousel을 활용하였습니다.
 * grid Layout을 활용하였습니다
 
-5. 상단바 메뉴
+5. 상단바 카테고리별 메뉴
 <img src="https://user-images.githubusercontent.com/97165731/203049253-2417587f-5f53-499a-b2d2-eaffdbb24bae.png">
+
+6. 상품 전체 페이지(ALL)
+<img src="https://user-images.githubusercontent.com/97165731/203049585-68fe795d-88c2-4c06-98c0-0f99a15c600b.png">
+(이미지 교체 예정)
+
+7. 관리자 페이지
+* 회원 목록 조회/수정
+<img src="https://user-images.githubusercontent.com/97165731/203049986-8fda9c8e-4dd5-45e9-bc41-3f68cc43ab3c.png">
+                                                                                                               
+* 상품 등록
+<img src="https://user-images.githubusercontent.com/97165731/203050403-4994da58-91da-4229-8b92-f19042972a13.png">
+
+* 상품 목록
+<img src="https://user-images.githubusercontent.com/97165731/203050578-16ba6a09-b6b7-4169-995b-133fb88cd5c7.png">
+(교체 예정)
+
+* 주문 목록
+<img src="https://user-images.githubusercontent.com/97165731/203052408-972d9012-d602-4233-b949-fa2234cf4f45.png">
+(교체 예정)
+
+* QNA 목록
+<img src="https://user-images.githubusercontent.com/97165731/203052673-89fe543e-fcf8-46a7-904f-31d97536d197.png">
+
+
+
+
+
+
+                                                                                                               
