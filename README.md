@@ -41,7 +41,7 @@
 
 # 구현한 기능들
 1. 회원가입
-(https://user-images.githubusercontent.com/97165731/203047565-20cad785-b189-44fc-9edc-a1f15e6b20ac.png)
+<img src="https://user-images.githubusercontent.com/97165731/203047565-20cad785-b189-44fc-9edc-a1f15e6b20ac.png">
 
 
 2. 작성 예정
