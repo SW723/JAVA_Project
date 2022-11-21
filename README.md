@@ -46,7 +46,7 @@
 
 ### :two: 로그인
 <img src="https://user-images.githubusercontent.com/97165731/203048201-28f4a07c-affa-4f03-a641-67ae964e5ff3.png">
-:three: 로그아웃
+#### :three: 로그아웃
 
 
 ### :four: 메인페이지
