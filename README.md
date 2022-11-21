@@ -55,7 +55,6 @@
 <img src="https://user-images.githubusercontent.com/97165731/203048687-8fa65609-11bc-43f0-a650-f28da899b670.png">
 
 * #### Carousel을 활용하였습니다.
-* 
 * #### grid Layout을 활용하였습니다
 
 
