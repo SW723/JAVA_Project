@@ -44,4 +44,16 @@
 <img src="https://user-images.githubusercontent.com/97165731/203047565-20cad785-b189-44fc-9edc-a1f15e6b20ac.png">
 
 
-2. 작성 예정
+2. 로그인
+<img src="https://user-images.githubusercontent.com/97165731/203048201-28f4a07c-affa-4f03-a641-67ae964e5ff3.png">
+
+3. 로그아웃
+
+4. 메인페이지
+<img src="https://user-images.githubusercontent.com/97165731/203048534-f562ff4f-f0b5-4617-944d-f339f8d2a319.png">
+<img src="https://user-images.githubusercontent.com/97165731/203048687-8fa65609-11bc-43f0-a650-f28da899b670.png">
+* Carousel을 활용하였습니다.
+* grid Layout을 활용하였습니다
+
+5. 상단바 메뉴
+<img src="https://user-images.githubusercontent.com/97165731/203049253-2417587f-5f53-499a-b2d2-eaffdbb24bae.png">
