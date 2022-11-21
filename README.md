@@ -52,8 +52,8 @@
 ### :four: 메인페이지
 <img src="https://user-images.githubusercontent.com/97165731/203048534-f562ff4f-f0b5-4617-944d-f339f8d2a319.png">
 <img src="https://user-images.githubusercontent.com/97165731/203048687-8fa65609-11bc-43f0-a650-f28da899b670.png">
-#### * Carousel을 활용하였습니다.
-#### * grid Layout을 활용하였습니다
+* #### Carousel을 활용하였습니다.
+* #### grid Layout을 활용하였습니다
 
 
 #### :five: 상단바 카테고리별 메뉴
