@@ -46,8 +46,8 @@
 
 2. 로그인
 <img src="https://user-images.githubusercontent.com/97165731/203048201-28f4a07c-affa-4f03-a641-67ae964e5ff3.png">
-
 3. 로그아웃
+
 
 4. 메인페이지
 <img src="https://user-images.githubusercontent.com/97165731/203048534-f562ff4f-f0b5-4617-944d-f339f8d2a319.png">
@@ -55,12 +55,15 @@
 * Carousel을 활용하였습니다.
 * grid Layout을 활용하였습니다
 
+
 5. 상단바 카테고리별 메뉴
 <img src="https://user-images.githubusercontent.com/97165731/203049253-2417587f-5f53-499a-b2d2-eaffdbb24bae.png">
+
 
 6. 상품 전체 페이지(ALL)
 <img src="https://user-images.githubusercontent.com/97165731/203049585-68fe795d-88c2-4c06-98c0-0f99a15c600b.png">
 (이미지 교체 예정)
+
 
 7. 관리자 페이지
 * 회원 목록 조회/수정
@@ -81,8 +84,20 @@
 <img src="https://user-images.githubusercontent.com/97165731/203052673-89fe543e-fcf8-46a7-904f-31d97536d197.png">
 
 
+8. 마이페이지
+* 개인정보수정
+<img src="https://user-images.githubusercontent.com/97165731/203053825-435ad066-eac8-4dd0-a688-e5c46e3f358f.png">
 
+* QNA
+<img src="https://user-images.githubusercontent.com/97165731/203053938-5ef58abe-e486-42a6-a9b5-e1475ac2951c.png">
 
+* 장바구니
+<img src="https://user-images.githubusercontent.com/97165731/203053602-a4ab7cba-6ac9-4ddb-9a7f-d0d00ebb4f13.png">
 
+* 결제 페이지
+<img src="https://user-images.githubusercontent.com/97165731/203054208-cbf3adb9-d402-40b4-903d-f2cc2ea21bf1.png">
+<img src="https://user-images.githubusercontent.com/97165731/203054270-2c7895af-f299-4e83-8ca7-40ea78562b58.png">
+<img src="https://user-images.githubusercontent.com/97165731/203054431-16458636-9aa8-4f4b-b53f-26d1a4d8ec39.png">
 
-                                                                                                               
+* 주문 내역
+<img src="https://user-images.githubusercontent.com/97165731/203054857-0fee04b6-5761-48f3-8d24-843c18457fa3.png">
