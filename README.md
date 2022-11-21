@@ -34,7 +34,7 @@
 * #### 작성 예정
 
 # MySQL 데이터베이스 생성
-<pre><code>create database shopdb;</code></pre>
+<pre><code>create database shop;</code></pre>
 
 # MySQL 테이블 생성
 <pre><code>use shop;</code></pre>
