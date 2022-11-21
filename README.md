@@ -1,1 +1,3 @@
-# KH Closet
+# KH_Closet 인터넷 쇼핑몰 프로젝트
+
+프로젝트 기간 :
