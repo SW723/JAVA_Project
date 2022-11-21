@@ -1,37 +1,37 @@
 # :computer: KH_Closet 인터넷 쇼핑몰 프로젝트
-스프링부트 + Thymeleaf
+* #### 스프링부트 + Thymeleaf
 
 # :date: 개발 기간
-* 22.10.12 ~ 22.11.25 
+* #### 22.10.12 ~ 22.11.25 
 
 # :family: 멤버구성
-* 강석원, 김희섭, 정다영, 권민석
+* #### 강석원, 김희섭, 정다영, 권민석
 
 # :high_brightness: 개발 환경
-* Java 8
-* JDK 1.8
-* IDE : IntelliJ
-* Framework : Springboot
-* Database : MySQL
-* ORM : JPA
+* #### Java 8
+* #### JDK 1.8
+* #### IDE : IntelliJ
+* #### Framework : Springboot
+* #### Database : MySQL
+* #### ORM : JPA
 
 # :womans_clothes: 디자인 및 상품, 상품 이미지, 상품 설명 참고 사이트
-:one: 아뜨랑스
+#### :one: 아뜨랑스
 * https://www.attrangs.co.kr/
 
-:two: 젝시믹스
+#### :two: 젝시믹스
 * https://xexymix.com/?_sta1=MUwwTDEwMDFMU0w0NjgxTDBMMEwwTE5MMDAw
 
-:three: 리린
+#### :three: 리린
 * http://www.leelin.co.kr/?_sta1=MUwwTDEwMDFMU0wxNTI0TDBMMEwwTE5MMDAw
 
 # 참고사항
-* 작성 예정
+* #### 작성 예정
 
 # 사용 API
-:one: 구글지도
+### :one: 구글지도
 
-* 작성 예정
+* #### 작성 예정
 
 # MySQL 데이터베이스 생성
 <pre><code>create database shopdb;</code></pre>
