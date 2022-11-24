@@ -26,12 +26,13 @@
 * http://www.leelin.co.kr/?_sta1=MUwwTDEwMDFMU0wxNTI0TDBMMEwwTE5MMDAw
 
 # 참고사항
-* #### 작성 예정
+* #### 아직 수정해야 할 부분이 많습니다.
 
 # 사용 API
-### :one: 구글지도
+### 다음지도
 
-* #### 작성 예정
+# 시연 영상
+### https://youtu.be/fW0H90-cc6U
 
 # MySQL 데이터베이스 생성
 <pre><code>create database shop;</code></pre>
@@ -41,18 +42,21 @@
 
 # 구현한 기능들
 ### :one: 회원가입
-<img src="https://user-images.githubusercontent.com/97165731/203047565-20cad785-b189-44fc-9edc-a1f15e6b20ac.png">
+<img src="https://user-images.githubusercontent.com/97165731/203781313-2a425191-212f-404c-a955-4d168b4c44b2.png">
 
 
 ### :two: 로그인
-<img src="https://user-images.githubusercontent.com/97165731/203048201-28f4a07c-affa-4f03-a641-67ae964e5ff3.png">
+<img src="https://user-images.githubusercontent.com/97165731/203781390-3a5f20fe-2ce0-43a1-8540-164d2c8e106b.png">
 
 ### :three: 로그아웃
 
 
 ### :four: 메인페이지
-<img src="https://user-images.githubusercontent.com/97165731/203048534-f562ff4f-f0b5-4617-944d-f339f8d2a319.png">
-<img src="https://user-images.githubusercontent.com/97165731/203048687-8fa65609-11bc-43f0-a650-f28da899b670.png">
+<img src="https://user-images.githubusercontent.com/97165731/203781546-1b06becb-53b8-4f88-a982-59d0001570ce.png">
+<img src="https://user-images.githubusercontent.com/97165731/203781592-8672edcd-e6f2-4802-8008-4c194298a8a3.png">
+<img src="https://user-images.githubusercontent.com/97165731/203781684-13fc3ea7-46de-4cbb-8888-b3bf5b8cde6b.png">
+<img src="https://user-images.githubusercontent.com/97165731/203781730-3b8ffa48-a6ca-4b9c-8966-f6383eed16fb.png">
+
 
 * #### Carousel을 활용하였습니다.
 * #### grid Layout을 활용하였습니다
@@ -63,43 +67,35 @@
 
 
 ### :six: 상품 전체 페이지(ALL)
-<img src="https://user-images.githubusercontent.com/97165731/203049585-68fe795d-88c2-4c06-98c0-0f99a15c600b.png">
-(이미지 교체 예정)
+<img src="https://user-images.githubusercontent.com/97165731/203783178-98b61ce1-9b92-45fa-88ba-4285136689d4.png">
+<img src="https://user-images.githubusercontent.com/97165731/203783258-96abd55e-6abd-4928-b64f-311569f206e0.png">
+
+
 
 
 ### :seven: 관리자 페이지
 * #### 회원 목록 조회/수정
-<img src="https://user-images.githubusercontent.com/97165731/203049986-8fda9c8e-4dd5-45e9-bc41-3f68cc43ab3c.png">
+<img src="https://user-images.githubusercontent.com/97165731/203782300-94614060-7fd1-4638-8766-970e5d98e710.png">
                                                                                                                
 * #### 상품 등록
-<img src="https://user-images.githubusercontent.com/97165731/203050403-4994da58-91da-4229-8b92-f19042972a13.png">
+<img src="https://user-images.githubusercontent.com/97165731/203782382-57e65ca3-3e11-4c5a-b0be-dea93e0663fd.png">
 
 * #### 상품 목록
-<img src="https://user-images.githubusercontent.com/97165731/203050578-16ba6a09-b6b7-4169-995b-133fb88cd5c7.png">
-(교체 예정)
-
-* #### 주문 목록
-<img src="https://user-images.githubusercontent.com/97165731/203052408-972d9012-d602-4233-b949-fa2234cf4f45.png">
-(교체 예정)
+<img src="https://user-images.githubusercontent.com/97165731/203782436-1da831d6-96e6-462c-908f-dcf97574770d.png">
 
 * #### QNA 목록
-<img src="https://user-images.githubusercontent.com/97165731/203052673-89fe543e-fcf8-46a7-904f-31d97536d197.png">
+<img src="https://user-images.githubusercontent.com/97165731/203782564-d65c704f-ef11-4446-b7ab-7c4dee1b50ef.png">
 
 
 ### :eight: 마이페이지
 * #### 개인정보수정
-<img src="https://user-images.githubusercontent.com/97165731/203053825-435ad066-eac8-4dd0-a688-e5c46e3f358f.png">
+<img src="https://user-images.githubusercontent.com/97165731/203782695-aa1b1c6b-eeb0-4b0c-9581-b125b006369e.png">
 
 * #### QNA
-<img src="https://user-images.githubusercontent.com/97165731/203053938-5ef58abe-e486-42a6-a9b5-e1475ac2951c.png">
+<img src="https://user-images.githubusercontent.com/97165731/203782770-ac673b42-9fc9-476f-9497-fa2de5a0793a.png">
 
 * #### 장바구니
-<img src="https://user-images.githubusercontent.com/97165731/203053602-a4ab7cba-6ac9-4ddb-9a7f-d0d00ebb4f13.png">
-
-* #### 결제 페이지
-<img src="https://user-images.githubusercontent.com/97165731/203054208-cbf3adb9-d402-40b4-903d-f2cc2ea21bf1.png">
-<img src="https://user-images.githubusercontent.com/97165731/203054270-2c7895af-f299-4e83-8ca7-40ea78562b58.png">
-<img src="https://user-images.githubusercontent.com/97165731/203054431-16458636-9aa8-4f4b-b53f-26d1a4d8ec39.png">
+<img src="https://user-images.githubusercontent.com/97165731/203782899-ed991df0-675e-48b0-861d-e0771125055f.png">
 
 * #### 주문 내역
-<img src="https://user-images.githubusercontent.com/97165731/203054857-0fee04b6-5761-48f3-8d24-843c18457fa3.png">
+<img src="https://user-images.githubusercontent.com/97165731/203783044-a9175fab-5fc3-4aaa-9b1e-5b71390497de.png">
