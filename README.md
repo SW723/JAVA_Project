@@ -25,9 +25,6 @@
 #### :three: 리린
 * http://www.leelin.co.kr/?_sta1=MUwwTDEwMDFMU0wxNTI0TDBMMEwwTE5MMDAw
 
-# 참고사항
-* #### 아직 수정해야 할 부분이 많습니다.
-
 # 사용 API
 ### 다음지도
 
