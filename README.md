@@ -31,6 +31,9 @@
 # 시연 영상
 ### https://youtu.be/fW0H90-cc6U
 
+# 노션 주소
+### https://far-perch-91a.notion.site/858b15d23fa84b2b9ee9848c95275706
+
 # MySQL 데이터베이스 생성
 <pre><code>create database shop;</code></pre>
 
